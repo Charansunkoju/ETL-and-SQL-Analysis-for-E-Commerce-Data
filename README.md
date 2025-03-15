@@ -1,11 +1,6 @@
 # ETL-and-SQL-Analysis-for-E-Commerce-Data
 
-## 📌 Project Overview
-This project focuses on building an ETL (Extract, Transform, Load) pipeline using Python and MySQL for an e-commerce database. 
-The project involves:
-- Extracting data from CSV files.
-- Transforming and cleaning the data.
-- Loading it into a MySQL database.
-- Performing SQL queries for data analysis using Python.
+This project focuses on building an ETL (Extract, Transform, Load) pipeline using Python and MySQL to process and analyze e-commerce data. 
+The goal is to extract data from CSV files, transform and clean it, and then load it into a structured MySQL database for efficient querying and analysis.
 
 ## 📂 Project Structure
