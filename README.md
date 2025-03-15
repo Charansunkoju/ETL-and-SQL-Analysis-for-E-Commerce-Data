@@ -13,7 +13,7 @@ The goal is to extract data from CSV files, transform and clean it, and then loa
 ---
 
 ## 🛠 Technologies Used
-- Python** (pandas, MySQL Connector, SQLAlchemy, SQL Queries)
+- Python (pandas, MySQL Connector, SQLAlchemy, SQL Queries)
 - MySQL (Workbench, Queries)
 - VS Code (for execution)
 - xlsx Files (data source)
