@@ -69,6 +69,8 @@ Run the following command to install required Python packages:
 -- Analyze successful vs. failed payments.
 -- Determine peak sales months.
 
+---
+
 ## 🚀 Final Deliverables
 ✔️ ETL Python Scripts to automate data extraction, transformation, and loading.
 
@@ -77,6 +79,8 @@ Run the following command to install required Python packages:
 ✔️ SQL Queries to generate insights.
 
 ✔️ Business Insights Report summarizing findings.
+
+--- 
 
 ## 🎯 Conclusion
 
