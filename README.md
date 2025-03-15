@@ -42,6 +42,38 @@ project-folder/
 2. Create a new database:
    -- CREATE DATABASE ecommerce_db;
 
+### 2️⃣ Install Dependencies
+Run the following command to install required Python packages:
+-- pip install -r requirements.txt
 
-  
+### 3️⃣ Extract Data from CSV Files
+-- Place CSV files (customers.csv, products.csv, orders.csv, payments.csv) in the data/ folder.
+-- Use pandas to read the CSV files:
 
+### 4️⃣ Transform & Clean Data
+-- Handle missing values, duplicates, and incorrect data types:
+
+### 5️⃣ Load Data into MySQL
+-- Connect Python to MySQL
+
+### 6️⃣ Run SQL Queries for Analysis
+-- Run SQL Queries in Python
+-- Establish connection by creating engine
+-- Read sql using pandas and run SQL Query
+
+---
+## 📈 Business Insights
+-- Identify top customers by total spending.
+-- Find the most popular product category.
+-- Analyze successful vs. failed payments.
+-- Determine peak sales months.
+
+## 🚀 Final Deliverables
+✔️ ETL Python Scripts to automate data extraction, transformation, and loading.
+✔️ MySQL Database with cleaned & structured data.
+✔️ SQL Queries to generate insights.
+✔️ Business Insights Report summarizing findings.
+
+## Conclusion
+
+This structured ETL + SQL workflow ensures efficient data processing, storage, and analysis for e-commerce business intelligence! 🚀
