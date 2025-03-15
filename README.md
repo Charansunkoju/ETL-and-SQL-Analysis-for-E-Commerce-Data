@@ -19,7 +19,15 @@ The goal is to extract data from CSV files, transform and clean it, and then loa
 - xlsx Files (data source)
 
 ---
+## 📂 Project Structure
+project-folder/
+│-- data/                # Raw CSV files  
+│-- sql_scripts/         # SQL schema  
+│-- python_scripts/      # ETL scripts & queries 
+│-- README.md            # Project documentation  
+│-- requirements.txt     # Dependencies  
 
+---
 ## 🔄 Project Workflow
 
   
