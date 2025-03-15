@@ -70,8 +70,11 @@ Run the following command to install required Python packages:
 
 ## 🚀 Final Deliverables
 ✔️ ETL Python Scripts to automate data extraction, transformation, and loading.
+
 ✔️ MySQL Database with cleaned & structured data.
+
 ✔️ SQL Queries to generate insights.
+
 ✔️ Business Insights Report summarizing findings.
 
 ## Conclusion
