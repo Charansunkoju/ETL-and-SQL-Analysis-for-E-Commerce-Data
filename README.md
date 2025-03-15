@@ -7,3 +7,5 @@ The project involves:
 - Transforming and cleaning the data.
 - Loading it into a MySQL database.
 - Performing SQL queries for data analysis using Python.
+
+## 📂 Project Structure
