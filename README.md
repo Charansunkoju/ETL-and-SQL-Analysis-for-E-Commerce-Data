@@ -40,6 +40,7 @@ project-folder/
 1. Install MySQL Server and MySQL Workbench.
    
 2. Create a new database:
+   
    -- CREATE DATABASE ecommerce_db;
 
 ### 2️⃣ Install Dependencies
