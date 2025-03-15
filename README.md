@@ -77,6 +77,6 @@ Run the following command to install required Python packages:
 
 ✔️ Business Insights Report summarizing findings.
 
-## Conclusion
+## 🎯 Conclusion
 
 This structured ETL + SQL workflow ensures efficient data processing, storage, and analysis for e-commerce business intelligence! 🚀
