@@ -28,7 +28,15 @@ project-folder/
 │-- requirements.txt     # Dependencies  
 
 ---
-## 🔄 Project Workflow
+
+## 🔄 Step-by-Step Workflow
+### 1️⃣ Set Up MySQL Database
+
+1. Install MySQL Server and MySQL Workbench.
+   
+2. Create a new database:
+   -- CREATE DATABASE ecommerce_db;
+
 
   
 
