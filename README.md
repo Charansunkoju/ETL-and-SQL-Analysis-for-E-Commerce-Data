@@ -1,4 +1,11 @@
 # ETL-and-SQL-Analysis-for-E-Commerce-Data
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://github.com/topics/python)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)](https://github.com/topics/mysql)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas)](https://github.com/topics/pandas)
+[![ETL Pipeline](https://img.shields.io/badge/ETL-Pipeline-orange)](https://github.com/topics/etl)
+[![SQL Queries](https://img.shields.io/badge/SQL-Data%20Analysis-003B57)](https://github.com/topics/sql)
+[![E-Commerce](https://img.shields.io/badge/E--Commerce-Analytics-green)](https://github.com/topics/e-commerce)
+
 
 This project focuses on building an ETL (Extract, Transform, Load) pipeline using Python and MySQL to process and analyze e-commerce data. 
 The goal is to extract data from CSV files, transform and clean it, and then load it into a structured MySQL database for efficient querying and analysis.
